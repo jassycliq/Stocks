@@ -4,27 +4,27 @@ This project, created as part of the application process for Cash App, showcases
 ## Screenshots
 
 ### Android - Material You Theme
-![Android Material You Theme](assets/android_material_you_screenshot.webp)
+<img src="assets/android_material_you_screenshot.webp" width="350px" alt="Android Material You Theme">
 This screenshot displays the Android version of the app using the Material You design theme.
 
 ### Empty State
-![Empty State](assets/empty_state_screenshot.webp)
+<img src="assets/empty_state_screenshot.webp" width="350px" alt="Empty State">
 This screenshot shows the app's display when no stock data is available.
 
 ### Error State
-![Error State](assets/error_state_screenshot.webp)
+<img src="assets/error_state_screenshot.webp" width="350px" alt="Error State">
 This screenshot demonstrates the app's error state when data fails to load or an error occurs.
 
 ### iOS - Default Theme
-![iOS Default Theme](assets/ios_default_theme_screenshot.webp)
+<img src="assets/ios_default_theme_screenshot.webp" width="350px" alt="iOS Default Theme">
 This screenshot shows the iOS version of the app in the default theme.
 
 ### iOS - Night Mode Default Theme
-![iOS Night Mode](assets/ios_night_mode_default_theme_screenshot.webp)
+<img src="assets/ios_night_mode_default_theme_screenshot.webp" width="350px" alt="iOS Night Mode">
 This image displays the iOS version of the app using the default theme in night mode.
 
 ### Loading State
-![Loading State](assets/loading_state_screenshot.webp)
+<img src="assets/loading_state_screenshot.webp" width="350px" alt="Loading State">
 This screenshot illustrates the app's loading state as it fetches stock data.
 
 ## App Overview
