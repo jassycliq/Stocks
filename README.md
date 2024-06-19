@@ -1,4 +1,9 @@
 # Stocks Multiplatform Mobile App
+This project, created as part of the application process for Cash App, showcases a simple yet effective mobile application that displays basic stock data across both iOS and Android platforms. Using Kotlin Multiplatform, the app leverages a shared codebase to present essential details about stocks, such as name, ticker, current price, currency, and quantity when available.
+
+The app fetches this data through a basic endpoint, focusing on straightforward data display without advanced tracking features or analytics. This approach not only demonstrates the potential of Kotlin Multiplatform for creating cross-platform applications but also serves as a practical example of handling and displaying financial data effectively in a mobile app environment.
+
+Designed to be informative and accessible, this application is perfect for evaluating both the practical applications of Kotlin Multiplatform technology and my capabilities in software development.
 
 ## How to Run the Project
 
